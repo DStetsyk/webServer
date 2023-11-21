@@ -1,0 +1,16 @@
+.vs
+lib/
+Debug/
+**.exe
+**.pdb
+**.ilk
+**.obj
+**.idb
+**.log
+**.recipe
+**.tlog
+**.exp
+**.lib
+
+
+
